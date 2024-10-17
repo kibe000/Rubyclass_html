@@ -1,0 +1,12 @@
+h2{
+    color: #7f9fff;
+    text-align: center;
+}
+th,td{
+    border: 2px solid chartreuse;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial;
+}
